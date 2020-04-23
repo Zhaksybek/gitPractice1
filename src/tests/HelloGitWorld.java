@@ -1,6 +1,6 @@
-package Git_Practice1;
+package tests;
 
-public class helloWorld {
+public class HelloGitWorld {
     public static void main(String[] args) {
         System.out.println("Hello world");
     }
